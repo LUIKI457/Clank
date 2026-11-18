@@ -1,0 +1,31 @@
+{
+ "name": "CLANK!",
+ "short_name": "CLANK!",
+ "description": "Um pequeno rob\u00f4 num mundo de sucata. Maquinarama Studio.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "any",
+ "background_color": "#140f1c",
+ "theme_color": "#2e3f78",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
